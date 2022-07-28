@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Realsnack
-- 👀 I’m interested in Coding, gaming and Motorsport, especially F1
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything at my level
+- 👀 I’m interested in Coding, gaming and Motorsport, especially F1 and GT World Challenge
+- 🌱 Mainly using C# but I know some Python, Java and a little bit of Swift and JavaScript
 - 📫 How to reach me? Discord @Sn4cK-
 
 <!---
